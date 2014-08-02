@@ -9,7 +9,8 @@ bot_data = {
     ["dislike", "hate"],
     ["despise", "hate"],
     ["yeah", "yes"],
-    ["mom", "family"]
+    ["mom", "family"],
+    ["cant", "can't"]
   ],
   
   :responses      => {
